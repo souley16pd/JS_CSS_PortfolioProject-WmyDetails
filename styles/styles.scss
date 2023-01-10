@@ -14,7 +14,7 @@
     --color-grey-1: #dbe1e8;
     --color-grey-2: #b2becd;
     --color-grey-3: #6c7983;
-    --color-grey-4: #000//#454e56;
+    --color-grey-4: #1E2749;//#454e56;
     --color-grey-5: #2a2e35;
     --color-grey-6: #12181b;
     --br-sm-2: 14px;
@@ -298,12 +298,17 @@ section {
                         transition: all .4s ease-in-out;
                         width: 60%;
                     }
-                    .html { width: 80%; }
-                    .css { width: 95%; }
-                    .js { width: 75%; }
-                    .react{ width: 60%; }
-                    .node{ width: 87%; }
-                    .python{ width: 70%; }
+                    .Hybrid { width: 90%; }
+                    .Agile { width: 80%; }
+                    .Waterfall { width: 60%; }
+                    .Python{ width: 10%; }
+                    .AI-ML{ width: 10%; }
+                    .Jira{ width: 70%; }
+                    .Microsoft-Project{ width: 80%; }
+                    .Personalization{ width: 90%; }
+                    .Confluence{ width: 60%; }
+                    .Skill11{ width: 10%; }
+                    .Solidity{ width: 10%; }
                 }
             }
         }
